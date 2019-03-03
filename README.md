@@ -16,4 +16,4 @@
 
 
 
-![Gender](/Users/chenguanghao/Documents/GitHub/face_crop/images/Gender.jpg)![Age](/Users/chenguanghao/Documents/GitHub/face_crop/images/Age.jpg)
+![Gender](./images/Gender.jpg)![Age](./images/Age.jpg)
